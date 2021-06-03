@@ -1,0 +1,272 @@
+[
+  {
+    "Id": 1001,
+    "Name": "牛肉",
+    "PerfectTime": 6.50 ,
+    "PasteTime": 10.00 ,
+    "FailureTime": 14.00 ,
+    "FirePowerBase": 150,
+    "EatPowerBase": 29.00 ,
+    "ScoreBase": 780
+  },
+  {
+    "Id": 1002,
+    "Name": "羊肉",
+    "PerfectTime": 5.00 ,
+    "PasteTime": 8.00 ,
+    "FailureTime": 12.00 ,
+    "FirePowerBase": 120,
+    "EatPowerBase": 16.00 ,
+    "ScoreBase": 926
+  },
+  {
+    "Id": 1003,
+    "Name": "午餐肉",
+    "PerfectTime": 4.00 ,
+    "PasteTime": 8.50 ,
+    "FailureTime": 12.00 ,
+    "FirePowerBase": 100,
+    "EatPowerBase": 16.00 ,
+    "ScoreBase": 480
+  },
+  {
+    "Id": 1004,
+    "Name": "菠菜",
+    "PerfectTime": 1.50 ,
+    "PasteTime": 4.50 ,
+    "FailureTime": 7.00 ,
+    "FirePowerBase": 10,
+    "EatPowerBase": 8.00 ,
+    "ScoreBase": 318
+  },
+  {
+    "Id": 1005,
+    "Name": "油菜",
+    "PerfectTime": 2.50 ,
+    "PasteTime": 5.50 ,
+    "FailureTime": 8.50 ,
+    "FirePowerBase": 20,
+    "EatPowerBase": 14.00 ,
+    "ScoreBase": 430
+  },
+  {
+    "Id": 1006,
+    "Name": "鱼丸",
+    "PerfectTime": 5.00 ,
+    "PasteTime": 9.00 ,
+    "FailureTime": 14.00 ,
+    "FirePowerBase": 35,
+    "EatPowerBase": 16.00 ,
+    "ScoreBase": 655
+  },
+  {
+    "Id": 1007,
+    "Name": "虾丸",
+    "PerfectTime": 4.00 ,
+    "PasteTime": 9.00 ,
+    "FailureTime": 12.00 ,
+    "FirePowerBase": 15,
+    "EatPowerBase": 12.00 ,
+    "ScoreBase": 550
+  },
+  {
+    "Id": 1008,
+    "Name": "鱼豆腐",
+    "PerfectTime": 3.50 ,
+    "PasteTime": 8.00 ,
+    "FailureTime": 11.00 ,
+    "FirePowerBase": 50,
+    "EatPowerBase": 14.00 ,
+    "ScoreBase": 460
+  },
+  {
+    "Id": 1009,
+    "Name": "鹌鹑蛋",
+    "PerfectTime": 1.50 ,
+    "PasteTime": 6.00 ,
+    "FailureTime": 12.00 ,
+    "FirePowerBase": 75,
+    "EatPowerBase": 88.00 ,
+    "ScoreBase": 888
+  },
+  {
+    "Id": 1010,
+    "Name": "毛肚",
+    "PerfectTime": 2.00 ,
+    "PasteTime": 4.50 ,
+    "FailureTime": 7.00 ,
+    "FirePowerBase": 180,
+    "EatPowerBase": 1.00 ,
+    "ScoreBase": 1555
+  },
+  {
+    "Id": 1011,
+    "Name": "平菇",
+    "PerfectTime": 15.00 ,
+    "PasteTime": 21.00 ,
+    "FailureTime": 27.00 ,
+    "FirePowerBase": 90,
+    "EatPowerBase": 50.00 ,
+    "ScoreBase": 1000
+  },
+  {
+    "Id": 1012,
+    "Name": "山药",
+    "PerfectTime": 10.00 ,
+    "PasteTime": 14.00 ,
+    "FailureTime": 18.00 ,
+    "FirePowerBase": 20,
+    "EatPowerBase": 4.00 ,
+    "ScoreBase": 550
+  },
+  {
+    "Id": 1013,
+    "Name": "蟹棒",
+    "PerfectTime": 7.00 ,
+    "PasteTime": 10.00 ,
+    "FailureTime": 13.00 ,
+    "FirePowerBase": 45,
+    "EatPowerBase": 7.00 ,
+    "ScoreBase": 350
+  },
+  {
+    "Id": 1014,
+    "Name": "海带",
+    "PerfectTime": 7.00 ,
+    "PasteTime": 10.00 ,
+    "FailureTime": 13.00 ,
+    "FirePowerBase": 45,
+    "EatPowerBase": 7.00 ,
+    "ScoreBase": 350
+  },
+  {
+    "Id": 1015,
+    "Name": "撒尿牛丸",
+    "PerfectTime": 11.00 ,
+    "PasteTime": 16.00 ,
+    "FailureTime": 22.00 ,
+    "FirePowerBase": 110,
+    "EatPowerBase": 12.00 ,
+    "ScoreBase": 650
+  },
+  {
+    "Id": 1016,
+    "Name": "西兰花",
+    "PerfectTime": 9.00 ,
+    "PasteTime": 14.00 ,
+    "FailureTime": 16.00 ,
+    "FirePowerBase": 230,
+    "EatPowerBase": 5.00 ,
+    "ScoreBase": 900
+  },
+  {
+    "Id": 1017,
+    "Name": "鸭血",
+    "PerfectTime": 9.00 ,
+    "PasteTime": 14.00 ,
+    "FailureTime": 16.00 ,
+    "FirePowerBase": 230,
+    "EatPowerBase": 5.00 ,
+    "ScoreBase": 900
+  },
+  {
+    "Id": 1018,
+    "Name": "章鱼",
+    "PerfectTime": 6.00 ,
+    "PasteTime": 9.00 ,
+    "FailureTime": 12.00 ,
+    "FirePowerBase": 100,
+    "EatPowerBase": 9.00 ,
+    "ScoreBase": 1200
+  },
+  {
+    "Id": 1019,
+    "Name": "虾",
+    "PerfectTime": 6.00 ,
+    "PasteTime": 9.00 ,
+    "FailureTime": 11.00 ,
+    "FirePowerBase": 50,
+    "EatPowerBase": 20.00 ,
+    "ScoreBase": 1000
+  },
+  {
+    "Id": 1020,
+    "Name": "白菜",
+    "PerfectTime": 3.00 ,
+    "PasteTime": 5.00 ,
+    "FailureTime": 7.00 ,
+    "FirePowerBase": 10,
+    "EatPowerBase": 8.00 ,
+    "ScoreBase": 200
+  },
+  {
+    "Id": 1021,
+    "Name": "生菜",
+    "PerfectTime": 0.50 ,
+    "PasteTime": 2.00 ,
+    "FailureTime": 7.00 ,
+    "FirePowerBase": 10,
+    "EatPowerBase": 2.00 ,
+    "ScoreBase": 100
+  },
+  {
+    "Id": 1022,
+    "Name": "苹果核",
+    "PerfectTime": 0.01 ,
+    "PasteTime": 0.01 ,
+    "FailureTime": 0.01 ,
+    "FirePowerBase": 0,
+    "EatPowerBase": 0.00 ,
+    "ScoreBase": 0
+  },
+  {
+    "Id": 1023,
+    "Name": "鱼骨头",
+    "PerfectTime": 0.01 ,
+    "PasteTime": 0.01 ,
+    "FailureTime": 0.01 ,
+    "FirePowerBase": 0,
+    "EatPowerBase": 0.00 ,
+    "ScoreBase": 0
+  },
+  {
+    "Id": 1024,
+    "Name": "毒蘑菇",
+    "PerfectTime": 0.01 ,
+    "PasteTime": 0.01 ,
+    "FailureTime": 0.01 ,
+    "FirePowerBase": 0,
+    "EatPowerBase": 0.00 ,
+    "ScoreBase": 0
+  },
+  {
+    "Id": 1025,
+    "Name": "橄榄球",
+    "PerfectTime": 0.01 ,
+    "PasteTime": 0.01 ,
+    "FailureTime": 0.01 ,
+    "FirePowerBase": 0,
+    "EatPowerBase": 0.00 ,
+    "ScoreBase": 0
+  },
+  {
+    "Id": 1026,
+    "Name": "袜子",
+    "PerfectTime": 0.01 ,
+    "PasteTime": 0.01 ,
+    "FailureTime": 0.01 ,
+    "FirePowerBase": 0,
+    "EatPowerBase": 0.00 ,
+    "ScoreBase": 0
+  },
+  {
+    "Id": 1027,
+    "Name": "魔方",
+    "PerfectTime": 0.01 ,
+    "PasteTime": 0.01 ,
+    "FailureTime": 0.01 ,
+    "FirePowerBase": 0,
+    "EatPowerBase": 0.00 ,
+    "ScoreBase": 0
+  }
+]
